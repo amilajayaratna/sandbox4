@@ -1,6 +1,8 @@
 # setup
 brew install python
+
 pip install -U pytest
+
 brew install selenium-server-standalone
 
 Install Chrome driver
